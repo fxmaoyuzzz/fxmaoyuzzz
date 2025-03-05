@@ -56,9 +56,10 @@ Here are some ideas to get you started:
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxmaoyuzzz&show_icons=true&theme=tokyonight)
 
-![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
-
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxmaoyuzzz&layout=compact&theme=tokyonight)
+
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxmaoyuzzz&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fxmaoyuzzz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fxmaoyuzzz" /> </div>
 
