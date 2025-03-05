@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   [![Flink](https://img.shields.io/badge/-Flink-35495E?logo=apacheflink&logoColor=DD4822)](https://fxmaoyuzzz.cn/)
   [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
   [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
+  [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
 
 
