@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   [![Flink](https://img.shields.io/badge/-Flink-3DDC84?logo=apacheflink&logoColor=4788F4)](https://fxmaoyuzzz.cn/)
-  [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=Spark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
-  [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=Hadoop&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
+  [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
+  [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxmaoyuzzz&show_icons=true&theme=tokyonight)
