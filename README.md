@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning:
-  [![Flink](https://img.shields.io/badge/-Flink-3DDC84?logo=apacheflink&logoColor=DD4822)](https://fxmaoyuzzz.cn/)
+  [![Flink](https://img.shields.io/badge/-Flink-35495E?logo=apacheflink&logoColor=DD4822)](https://fxmaoyuzzz.cn/)
   [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
   [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
