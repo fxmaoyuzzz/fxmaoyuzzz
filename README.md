@@ -35,10 +35,10 @@ Here are some ideas to get you started:
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://fxmaoyuzzz.cn/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://fxmaoyuzzz.cn/)
-  [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F16061?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
+  [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1572B6?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F6C915?logo=apacherocketmq&logoColor=029137)](https://fxmaoyuzzz.cn/)
-  [![Kafka](https://img.shields.io/badge/-Kafka-F6C915?logo=apachekafka&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Kafka](https://img.shields.io/badge/-Kafka-000000?logo=apachekafka&logoColor=029137)](https://fxmaoyuzzz.cn/)
 
   - ⚙️ I also use and work:
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
