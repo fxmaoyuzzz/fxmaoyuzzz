@@ -23,13 +23,13 @@ Here are some ideas to get you started:
   [![Mysql](https://img.shields.io/badge/-Mysql-4EC422?logo=Mysql&logoColor=FF7043)](https://fxmaoyuzzz.cn/)
   [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=75AFCC)](https://fxmaoyuzzz.cn/)
-  [![Maven](https://img.shields.io/badge/-Maven-2875E3?logo=Maven&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Maven](https://img.shields.io/badge/-Maven-2875E3?logo=apachemaven&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   
 
 
 - 💻 I work using:
-  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=IDEA)](https://fxmaoyuzzz.cn/)
+  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=intellijidea)](https://fxmaoyuzzz.cn/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://fxmaoyuzzz.cn/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
@@ -37,14 +37,15 @@ Here are some ideas to get you started:
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://fxmaoyuzzz.cn/)
   [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F16061?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
-  [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F6C915?logo=RocketMQ&logoColor=029137)](https://fxmaoyuzzz.cn/)
-  [![Kafka](https://img.shields.io/badge/-Kafka-F6C915?logo=Kafka&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F6C915?logo=apacherocketmq&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Kafka](https://img.shields.io/badge/-Kafka-F6C915?logo=apachekafka&logoColor=029137)](https://fxmaoyuzzz.cn/)
 
   - ⚙️ I also use and work:
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://fxmaoyuzzz.cn/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?style=plastic&logo=Skywalking)](https://fxmaoyuzzz.cn/)
+  [![Tomcat](https://img.shields.io/badge/-Tomcat-181717?style=plastic&logo=apachetomcat)](https://fxmaoyuzzz.cn/)
 
 - 🌱 I’m currently learning:
   [![Flink](https://img.shields.io/badge/-Flink-3DDC84?logo=apacheflink&logoColor=4788F4)](https://fxmaoyuzzz.cn/)
