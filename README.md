@@ -45,7 +45,8 @@ Here are some ideas to get you started:
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://fxmaoyuzzz.cn/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?style=plastic&logo=Skywalking)](https://fxmaoyuzzz.cn/)
-  [![Tomcat](https://img.shields.io/badge/-Tomcat-F5F5F5?style=plastic&logo=apachetomcat)](https://fxmaoyuzzz.cn/)
+  [![Tomcat](https://img.shields.io/badge/-Tomcat-FCA121?style=plastic&logo=apachetomcat)](https://fxmaoyuzzz.cn/)
+
 
 - 🌱 I’m currently learning:
   [![Flink](https://img.shields.io/badge/-Flink-3DDC84?logo=apacheflink&logoColor=4788F4)](https://fxmaoyuzzz.cn/)
