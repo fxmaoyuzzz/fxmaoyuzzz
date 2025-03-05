@@ -24,12 +24,13 @@ Here are some ideas to get you started:
   [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=EE3D11)](https://fxmaoyuzzz.cn/)
   [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=75AFCC)](https://fxmaoyuzzz.cn/)
   [![Maven](https://img.shields.io/badge/-Maven-35495E?logo=apachemaven&logoColor=3CA9C4)](https://fxmaoyuzzz.cn/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
+  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=intellijidea)](https://fxmaoyuzzz.cn/)
+
   
 
 
 - 💻 I work using:
-  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=intellijidea)](https://fxmaoyuzzz.cn/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://fxmaoyuzzz.cn/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
