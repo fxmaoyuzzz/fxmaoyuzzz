@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 - 💻 I work using:
-  [![IDEA](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=IDEA)](https://fxmaoyuzzz.cn/)
+  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=IDEA)](https://fxmaoyuzzz.cn/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://fxmaoyuzzz.cn/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
