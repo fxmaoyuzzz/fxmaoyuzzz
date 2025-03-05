@@ -15,6 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🚀 I use daily:
+  [![Java](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=FFCA28)](https://fxmaoyuzzz.cn/)
+  [![SpringBoot](https://img.shields.io/badge/SpringBoot-35495E?logo=SpringBoot&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
+  [![SpringCloud](https://img.shields.io/badge/-SpringCloud-000000?logo=SpringCloud&logoColor=FF7043)](https://fxmaoyuzzz.cn/)
+  [![Spring](https://img.shields.io/badge/-Spring-F6C915?logo=Spring&logoColor=F16061)](https://fxmaoyuzzz.cn/)
+  [![Mysql](https://img.shields.io/badge/-Mysql-4EC422?logo=Mysql&logoColor=FF7043)](https://fxmaoyuzzz.cn/)
+  [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=75AFCC)](https://fxmaoyuzzz.cn/)
+  [![Maven](https://img.shields.io/badge/-Maven-2875E3?logo=Maven&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
+  
+
+
+- 💻 I work using:
+  [![IDEA](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=IDEA)](https://fxmaoyuzzz.cn/)
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://fxmaoyuzzz.cn/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
+  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://fxmaoyuzzz.cn/)
+  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://fxmaoyuzzz.cn/)
+  [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F16061?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
+  [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F6C915?logo=RocketMQ&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![Kafka](https://img.shields.io/badge/-Kafka-F6C915?logo=Kafka&logoColor=029137)](https://fxmaoyuzzz.cn/)
+
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxmaoyuzzz&show_icons=true&theme=tokyonight)
 
 ![Visitor Count](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ac595079b3e495c81bbd930d93f5861~tplv-k3u1fbpfcp-zoom-1.image)
