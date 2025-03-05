@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=fxmaoyuzzz" /> </div>
 
 
-
+🔥 My projects:
+-----------------------
+个人博客：https://fxmaoyuzzz.cn/
 
 
 
