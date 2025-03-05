@@ -1,4 +1,4 @@
-## Hi，欢迎访问我的GitHub主页! 👋
+## Hi，欢迎访问我的GitHub! 👋
 
 <!--
 **fxmaoyuzzz/fxmaoyuzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
