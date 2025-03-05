@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?style=plastic&logo=Skywalking)](https://fxmaoyuzzz.cn/)
   [![Tomcat](https://img.shields.io/badge/-Tomcat-FCA121?style=plastic&logo=apachetomcat)](https://fxmaoyuzzz.cn/)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
 
 
 - 🌱 I’m currently learning:
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
   [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
   [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=029137)](https://fxmaoyuzzz.cn/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
+
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
