@@ -67,7 +67,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 🔥 My projects:
 -----------------------
-[![微信公众号](https://img.shields.io/badge/-react-35495E?logo=react&logoColor=002FA7)](https://fxmaoyuzzz.cn/) 个人博客：https://fxmaoyuzzz.cn/
+[![微信公众号](https://img.shields.io/badge/-react-35495E?logo=react)](https://fxmaoyuzzz.cn/) 个人博客：https://fxmaoyuzzz.cn/
 <br></br>
 [![微信公众号](https://img.shields.io/badge/-wechat-35495E?logo=wechat&logoColor=4FC08D)](https://fxmaoyuzzz.cn/) 微信公众号：
 <br></br>
