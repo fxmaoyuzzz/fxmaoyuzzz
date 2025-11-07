@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 
-Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/fxmaoyuzzz/count.svg) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io)  visitor, Thank You!🎉🎉
 
 
 
