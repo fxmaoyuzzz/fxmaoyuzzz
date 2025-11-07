@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 
-Welcome, You are my ![](https://komarev.com/ghpvc/?username=fxmaoyuzzz&color=brightgreen&base=77777&label=个人资料) visitor, Thank You! 🎉🎉
+Welcome, You are my ![个人资料](https://komarev.com/ghpvc/?username=fxmaoyuzzz&color=brightgreen&base=77777) visitor, Thank You! 🎉🎉
 
 
 
