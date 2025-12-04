@@ -59,9 +59,6 @@ Here are some ideas to get you started:
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fxmaoyuzzz&left_color=green&right_color=red)
-
-
 
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxmaoyuzzz&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=fxmaoyuzzz&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=omni" /> </span>
