@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   [![Java](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=FFCA28)](https://fxmaoyuzzz.cn/)
   [![SpringBoot](https://img.shields.io/badge/SpringBoot-35495E?logo=SpringBoot&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
   [![SpringCloud](https://img.shields.io/badge/-SpringCloud-000000?logo=SpringCloud&logoColor=FF7043)](https://fxmaoyuzzz.cn/)
-  [![Spring](https://img.shields.io/badge/-Spring-F6C915?logo=Spring&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
+  [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
   [![Mysql](https://img.shields.io/badge/-Mysql-F5F5F5?logo=Mysql&logoColor=3CA9C4)](https://fxmaoyuzzz.cn/)
   [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=EE3D11)](https://fxmaoyuzzz.cn/)
   [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=75AFCC)](https://fxmaoyuzzz.cn/)
