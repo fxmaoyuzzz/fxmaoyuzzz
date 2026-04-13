@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
   [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=FFFFFF)](https://fxmaoyuzzz.cn/)
   [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=000000)](https://fxmaoyuzzz.cn/)
+  [![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?logo=apachehive&logoColor=000000)](https://fxmaoyuzzz.cn/)
 
 
 
