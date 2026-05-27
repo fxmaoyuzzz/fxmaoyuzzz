@@ -46,9 +46,9 @@ Here are some ideas to get you started:
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://fxmaoyuzzz.cn/)
   [![Kibana](https://img.shields.io/badge/-Kibana-f3f2e8?logo=kibana&logoColor=005571)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?logo=Skywalking)](https://fxmaoyuzzz.cn/)
-  [![Tomcat](https://img.shields.io/badge/-Tomcat-2B3A42?logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
   [![Doris](https://img.shields.io/badge/-Doris-f3f2e8?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-35495E?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
+  [![Tomcat](https://img.shields.io/badge/-Tomcat-2B3A42?logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-F5F5F5?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
   
 
 
