@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   [![Tomcat](https://img.shields.io/badge/-Tomcat-ded8dc?style=plastic&logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
   [![Doris](https://img.shields.io/badge/-Doris-f3f2e8?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-2B3A42?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-f3f2e8?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
 
 
 - 🌱 I’m currently learning:
