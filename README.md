@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning:
-  [![Flink](https://img.shields.io/badge/-Flink-35495E?logo=apacheflink&logoColor=DD4822)](https://fxmaoyuzzz.cn/)
-  [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=00ACC1)](https://fxmaoyuzzz.cn/)
-  [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=FFFFFF)](https://fxmaoyuzzz.cn/)
+  [![Flink](https://img.shields.io/badge/-Flink-35495E?logo=apacheflink&logoColor=E6526F)](https://fxmaoyuzzz.cn/)
+  [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=E25A1C)](https://fxmaoyuzzz.cn/)
+  [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=66CCFF)](https://fxmaoyuzzz.cn/)
   [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=FF7A00)](https://fxmaoyuzzz.cn/)
   [![Pytorch](https://img.shields.io/badge/-Pytorch-F5F5F5?logo=apachehive&logoColor=EE4C2C)](https://fxmaoyuzzz.cn/)
   [![LangChain](https://img.shields.io/badge/-LangChain-2B3A42?logo=langchain&logoColor=7FC8FF)](https://fxmaoyuzzz.cn/)
