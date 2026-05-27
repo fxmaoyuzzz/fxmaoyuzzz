@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?logo=Skywalking)](https://fxmaoyuzzz.cn/)
   [![Tomcat](https://img.shields.io/badge/-Tomcat-2B3A42?logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
   [![Doris](https://img.shields.io/badge/-Doris-f3f2e8?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-2e8689?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-35495E?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
   
 
 
