@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=EE3D11)](https://fxmaoyuzzz.cn/)
   [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=F03C2E)](https://fxmaoyuzzz.cn/)
   [![Maven](https://img.shields.io/badge/-Maven-35495E?logo=apachemaven&logoColor=3CA9C4)](https://fxmaoyuzzz.cn/)
-  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=intellijidea)](https://fxmaoyuzzz.cn/)
+  [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?logo=intellijidea)](https://fxmaoyuzzz.cn/)
 
   
 
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - 💻 I work using:
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://fxmaoyuzzz.cn/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-35495E?style=plastic&logo=gitlab)](https://fxmaoyuzzz.cn/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://fxmaoyuzzz.cn/)
+  [![GitLab](https://img.shields.io/badge/-GitLab-35495E?logo=gitlab)](https://fxmaoyuzzz.cn/)
   [![Linux](https://img.shields.io/badge/-Linux-181717?logo=linux&logoColor=FCC624)](https://fxmaoyuzzz.cn/)
   [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-F5F5F5?logo=Elasticsearch&logoColor=005571)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
