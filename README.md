@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   [![Spring](https://img.shields.io/badge/-Spring-35495E?logo=Spring&logoColor=6DB33F)](https://fxmaoyuzzz.cn/)
   [![Mysql](https://img.shields.io/badge/-Mysql-F5F5F5?logo=Mysql&logoColor=3CA9C4)](https://fxmaoyuzzz.cn/)
   [![Redis](https://img.shields.io/badge/-Redis-F6C915?logo=Redis&logoColor=EE3D11)](https://fxmaoyuzzz.cn/)
-  [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=75AFCC)](https://fxmaoyuzzz.cn/)
+  [![Git](https://img.shields.io/badge/-Git-2B3A42?logo=Git&logoColor=F03C2E)](https://fxmaoyuzzz.cn/)
   [![Maven](https://img.shields.io/badge/-Maven-35495E?logo=apachemaven&logoColor=3CA9C4)](https://fxmaoyuzzz.cn/)
   [![IDEA](https://img.shields.io/badge/-IDEA-007ACC?style=plastic&logo=intellijidea)](https://fxmaoyuzzz.cn/)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://fxmaoyuzzz.cn/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://fxmaoyuzzz.cn/)
+  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=FCC624)](https://fxmaoyuzzz.cn/)
   [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1572B6?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F5F5F5?logo=apacherocketmq&logoColor=029137)](https://fxmaoyuzzz.cn/)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
   [![Flink](https://img.shields.io/badge/-Flink-35495E?logo=apacheflink&logoColor=E6526F)](https://fxmaoyuzzz.cn/)
   [![Spark](https://img.shields.io/badge/-Spark-02569B?logo=apachespark&logoColor=E25A1C)](https://fxmaoyuzzz.cn/)
-  [![Hadoop](https://img.shields.io/badge/Hadoop-20232A?logo=apachehadoop&logoColor=66CCFF)](https://fxmaoyuzzz.cn/)
+  [![Hadoop](https://img.shields.io/badge/Hadoop-F5F5F5?logo=apachehadoop&logoColor=66CCFF)](https://fxmaoyuzzz.cn/)
   [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=FF7A00)](https://fxmaoyuzzz.cn/)
   [![Pytorch](https://img.shields.io/badge/-Pytorch-F5F5F5?logo=apachehive&logoColor=EE4C2C)](https://fxmaoyuzzz.cn/)
   [![LangChain](https://img.shields.io/badge/-LangChain-2B3A42?logo=langchain&logoColor=7FC8FF)](https://fxmaoyuzzz.cn/)
