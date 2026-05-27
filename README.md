@@ -41,15 +41,16 @@ Here are some ideas to get you started:
   [![Kafka](https://img.shields.io/badge/-Kafka-F5F5F5?logo=apachekafka&logoColor=231F20)](https://fxmaoyuzzz.cn/)
 
   - ⚙️ I also use and work:
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://fxmaoyuzzz.cn/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://fxmaoyuzzz.cn/)
   [![CSS3](https://img.shields.io/badge/-CSS3-2e8689?logo=css3)](https://fxmaoyuzzz.cn/)
+  [![Kibana](https://img.shields.io/badge/-Kibana-f3f2e8?logo=kibana&logoColor=005571)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?logo=Skywalking)](https://fxmaoyuzzz.cn/)
   [![Tomcat](https://img.shields.io/badge/-Tomcat-2B3A42?logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
   [![Doris](https://img.shields.io/badge/-Doris-f3f2e8?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-f3f2e8?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
-  [![Kibana](https://img.shields.io/badge/-Kibana-f3f2e8?logo=kibana&logoColor=005571)](https://fxmaoyuzzz.cn/)
+  
 
 
 - 🌱 I’m currently learning:
