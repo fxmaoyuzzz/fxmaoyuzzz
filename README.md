@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 I use daily:
-  [![Java](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=FFCA28)](https://fxmaoyuzzz.cn/)
+  [![Java](https://img.shields.io/badge/Java-000000?logo=codecrafters&logoColor=FFCA28)](https://fxmaoyuzzz.cn/)
   [![SpringBoot](https://img.shields.io/badge/SpringBoot-35495E?logo=SpringBoot&logoColor=6DB33F)](https://fxmaoyuzzz.cn/)
   [![SpringCloud](https://img.shields.io/badge/-SpringCloud-000000?logo=SpringCloud&logoColor=FF7043)](https://fxmaoyuzzz.cn/)
   [![Spring](https://img.shields.io/badge/-Spring-35495E?logo=Spring&logoColor=6DB33F)](https://fxmaoyuzzz.cn/)
