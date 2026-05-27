@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?style=plastic&logo=Skywalking)](https://fxmaoyuzzz.cn/)
   [![Tomcat](https://img.shields.io/badge/-Tomcat-35495E?style=plastic&logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
+  [![Doris](https://img.shields.io/badge/-Doris-35495E?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
 
 
 - 🌱 I’m currently learning:
