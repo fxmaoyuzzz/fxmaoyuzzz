@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://fxmaoyuzzz.cn/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://fxmaoyuzzz.cn/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://fxmaoyuzzz.cn/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=FCC624)](https://fxmaoyuzzz.cn/)
+  [![Linux](https://img.shields.io/badge/-Linux-F5F5F5?logo=linux&logoColor=FCC624)](https://fxmaoyuzzz.cn/)
   [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-1572B6?logo=Elasticsearch&logoColor=000)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
   [![RocketMQ](https://img.shields.io/badge/-RocketMQ-F5F5F5?logo=apacherocketmq&logoColor=029137)](https://fxmaoyuzzz.cn/)
