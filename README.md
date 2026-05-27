@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://fxmaoyuzzz.cn/)
   [![CSS3](https://img.shields.io/badge/-CSS3-2e8689?style=plastic&logo=css3)](https://fxmaoyuzzz.cn/)
   [![Skywalking](https://img.shields.io/badge/-Skywalking-1572B6?style=plastic&logo=Skywalking)](https://fxmaoyuzzz.cn/)
-  [![Tomcat](https://img.shields.io/badge/-Tomcat-ded8dc?style=plastic&logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
+  [![Tomcat](https://img.shields.io/badge/-Tomcat-2B3A42?style=plastic&logo=apachetomcat&logoColor=F8DC75)](https://fxmaoyuzzz.cn/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://fxmaoyuzzz.cn/)
   [![Doris](https://img.shields.io/badge/-Doris-f3f2e8?logo=apachedoris&logoColor=444FD9)](https://fxmaoyuzzz.cn/)
   [![Jenkins](https://img.shields.io/badge/-Jenkins-f3f2e8?logo=jenkins&logoColor=D24939)](https://fxmaoyuzzz.cn/)
