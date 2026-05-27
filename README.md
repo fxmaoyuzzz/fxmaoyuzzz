@@ -56,13 +56,9 @@ Here are some ideas to get you started:
   [![Hive](https://img.shields.io/badge/-Hive-F6C915?logo=apachehive&logoColor=000000)](https://fxmaoyuzzz.cn/)
   [![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=apachehive&logoColor=000000)](https://fxmaoyuzzz.cn/)
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 
-Welcome, You are my [![Visitor Count](https://profile-counter.deno.dev/all-smile-xyz/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@all-smile-xyz?theme=yousa-ling)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 
-Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@all-smile-xyz?theme=asoul)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
-
-Welcome, You are my [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffxmaoyuzzz%2Ffxmaoyuzzz.github.io&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23ECECEC&title=hits&edge_flat=false)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 
 
 
