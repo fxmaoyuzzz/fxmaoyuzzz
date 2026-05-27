@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   [![Linux](https://img.shields.io/badge/-Linux-F5F5F5?logo=linux&logoColor=FCC624)](https://fxmaoyuzzz.cn/)
   [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-20232A?logo=Elasticsearch&logoColor=005571)](https://fxmaoyuzzz.cn/)
   [![Nacos](https://img.shields.io/badge/-Nacos-F6C915?logo=Nacos&logoColor=029137)](https://fxmaoyuzzz.cn/)
-  [![RocketMQ](https://img.shields.io/badge/-RocketMQ-35495E?logo=apacherocketmq&logoColor=029137)](https://fxmaoyuzzz.cn/)
+  [![RocketMQ](https://img.shields.io/badge/-RocketMQ-35495E?logo=apacherocketmq&logoColor=D77310)](https://fxmaoyuzzz.cn/)
   [![Kafka](https://img.shields.io/badge/-Kafka-F5F5F5?logo=apachekafka&logoColor=231F20)](https://fxmaoyuzzz.cn/)
 
   - ⚙️ I also use and work:
