@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   [![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=apachehive&logoColor=000000)](https://fxmaoyuzzz.cn/)
 
 
-Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@all-smile-xyz?theme=yousa-ling)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.deno.dev/all-smile-xyz/count.svg)](https://github.com/fxmaoyuzzz/fxmaoyuzzz.github.io) visitor, Thank You!🎉🎉
 
 
 
@@ -70,9 +70,6 @@ Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@all-smile-x
   <img height="137px" src="https://github-readme-stats.shion.dev/api?username=fxmaoyuzzz&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=omni" />
 </span>
 
-<div align="center">
-  <img src="https://github-profile-trophy.lecoq.io/?username=fxmaoyuzzz" />
-</div>
 
 
 
